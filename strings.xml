@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="turmas">Turmas</string>
+    <string name="grade">Grade</string>
+    <string name="mensagens">Mensagens</string>
+    <string name="histórico">Histórico</string>
+    <string name="professores">Professores</string>
+    <string name="links">Links</string>
+</resources>
